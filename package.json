@@ -1,0 +1,23 @@
+{
+  "name": "go-func-yourself",
+  "version": "1.0.0",
+  "description": "Tired of writing \"if err != nil\" in other languges? I've got just the thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeCooper/GoFuncYourself.git"
+  },
+  "keywords": [
+    "go",
+    "javascript"
+  ],
+  "author": "JakeCooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakeCooper/GoFuncYourself/issues"
+  },
+  "homepage": "https://github.com/JakeCooper/GoFuncYourself#readme"
+}
