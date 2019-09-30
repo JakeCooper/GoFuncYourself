@@ -26,7 +26,7 @@ const resRunner = () => {
 
 ## Contributing
 
-Don't
+Open a PR and I probably won't review it
 
 ## Liscense
 MIT
