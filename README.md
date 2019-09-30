@@ -13,15 +13,14 @@ It's as easy as
 ```
 import gfy from 'go-func-yourself'
 
-const resRunner = () => {
-  let { res, err } = gfy(() => {
-    // ... your func
-  });
-  if (err) {
-    // ... do error
-  }
-  // ... do success
-};
+let { res, err } = gfy(() => {
+  // ... your func
+});
+if (err) {
+  // ... do error
+}
+// ... do success
+
 ```
 
 ## Contributing
